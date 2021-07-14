@@ -5,7 +5,7 @@ fof-masquerade:
                 Please complete the necessary profile fields below.
             profile-completed: Profile completed! <a>Proceed to homepage</a>
         buttons:
-            view-profile: View profile
+            view-profile: Edit profile
             save-profile: Save
         fields:
             select:
